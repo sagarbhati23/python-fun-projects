@@ -4,8 +4,8 @@
 This repository contains two Python projects I created for fun. The projects showcase simple yet engaging ideas that involve encoding/decoding and a classic game simulation.  
 
 # Projects
-1. [Secret Code Language](Secret Code Language.py)  
-2. [Snake, Water, and Gun Game](Snake, Water, and Gun Game.py)  
+[Secret Code Language](secret_code_language.py)  
+[Snake, Water, and Gun Game](snake_water_gun_game.py)
 
 ---
 
