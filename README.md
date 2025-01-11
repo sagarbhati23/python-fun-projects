@@ -4,8 +4,8 @@
 This repository contains two Python projects I created for fun. The projects showcase simple yet engaging ideas that involve encoding/decoding and a classic game simulation.  
 
 # Projects
-1. [Secret Code Language](#encoderdecoder)  
-2. [Snake, Water, and Gun Game](#snake-water-and-gun-game)  
+1. [Secret Code Language](#[encoderdecoder](https://github.com/sagarbhati23/Python-Projects-by-Sagar-Bhati/blob/main/Secret%20Code%20Language.py))  
+2. [Snake, Water, and Gun Game](#snake-water-and-gun-gamehttps://github.com/sagarbhati23/Python-Projects-by-Sagar-Bhati/blob/main/Snake%2C%20Water%2C%20and%20Gun%20Game.py)  
 
 ---
 
