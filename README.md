@@ -85,9 +85,9 @@ Contributions are welcome and greatly appreciated! To contribute, please follow 
 8. **Review Process**: Your pull request will be reviewed, and feedback may be provided. Please address any comments or requested changes.
 
 
-   ### Note
-   Make sure to replace
+  ### Note
+  Make sure to replace
    ```
    https://github.com/yourusername/python-fun-projects.git
    ```
-   with the actual URL of your forked repository
+  with the actual URL of your forked repository
