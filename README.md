@@ -18,10 +18,18 @@ This project encodes or decodes a code-word language based on predefined rules. 
 - Decode secret messages back to their original form.  
 
 **How to Run**:  
-1. Clone the repository.  
-2. Run the Python file using the command:  
-   ```bash
+1. Clone the repository using the command:  
+   ```
+   git clone https://github.com/yourusername/python-fun-projects.git
+   ```
+2. Navigate to the project directory:
+   ```
+   cd python-fun-projects
+   ```  
+3. Run the Python file using the command:  
+   ```
    python secret_code_language.py
+   ```
 
 
 ### 2. **Snake, Water, and Gun Game**  
@@ -34,7 +42,16 @@ This project is a Python implementation of the game "Snake, Water, and Gun," whi
 - Displays win, lose, or draw results.  
 
 **How to Run**:  
-1. Clone the repository.  
-2. Run the Python file using the command:  
+1. Clone the repository using the command:
+   ```
+   git clone https://github.com/yourusername/python-fun-projects.git
+   ```
+2. Navigate to the project directory:
+   ```
+   cd python-fun-projects
+   ```  
+3. Run the Python file using the command:  
    ```bash
    python snake_water_gun_game.py
+
+
