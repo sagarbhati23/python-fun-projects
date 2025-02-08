@@ -1,3 +1,5 @@
+import random
+
 '''
 Rules of the game
 Snake beats Water (Snake drinks Water).
@@ -5,7 +7,6 @@ Water beats Gun (Water rusts Gun).
 Gun beats Snake (Gun shoots Snake).
 '''
 
-import random
 
 '''
 1 for snake
