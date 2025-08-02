@@ -20,7 +20,7 @@ This project encodes or decodes a code-word language based on predefined rules. 
 **How to Run**:  
 1. Clone the repository using the command:  
    ```
-   git clone https://github.com/yourusername/python-fun-projects.git
+   git clone https://github.com/sagarbhati23/python-fun-projects.git
    ```
 2. Navigate to the project directory:
    ```
@@ -44,7 +44,7 @@ This project is a Python implementation of the game "Snake, Water, and Gun," whi
 **How to Run**:  
 1. Clone the repository using the command:
    ```
-   git clone https://github.com/yourusername/python-fun-projects.git
+   git clone https://github.com/sagarbhati23/python-fun-projects.git
    ```
 2. Navigate to the project directory:
    ```
